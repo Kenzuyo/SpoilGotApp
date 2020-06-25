@@ -2,7 +2,7 @@ pipeline {
    agent any
 
    tools {
-      // Installation OUI J4ADORE LES TESTS DES WEBHOOOKSKSDKODSIQJIKDHJS the Maven version configured as "M3" and add it to the path.
+      // Install the Maven version configured as "M3" and add it to the path.
       maven "maven"
    }
 
